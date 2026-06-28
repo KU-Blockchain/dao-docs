@@ -50,5 +50,3 @@ For DAOs, your wallet is your passport:
 *   **Your Identity:** It shows who you are in the DAO.
 *   **Voting Power:** If you have governance tokens, your wallet lets you vote on important decisions.
 *   **Receiving Stuff:** Any rewards or tokens from the DAO come straight to your wallet address.
-
-Understanding your wallet is step one to being a safe and active participant in the decentralized world!
